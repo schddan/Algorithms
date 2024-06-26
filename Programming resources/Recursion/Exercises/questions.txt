@@ -1,0 +1,8 @@
+Questões do livro "Entendendo Algoritmos"
+
+CAPÍTULO 4:
+
+4.4 -  Considerando que o algoritmo da pesquisa binária é possível de ser feito com recursão, qual seria o caso base e o caso recursivo?
+A: 
+Caso-base: quando o array tiver um único elemento. Se esse elemento for o procurado, retorna ele, caso contrário retorna nulo
+Caso-recursivo: pega apenas uma metade do array e faz a pesquisa binária nela
