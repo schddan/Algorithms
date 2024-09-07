@@ -1,0 +1,31 @@
+-Trees
+ -Binary Trees
+ -B trees
+ -Red-black trees
+ -Heaps
+ -Splay trees
+
+-Inverted index/inverted list
+
+-Fourier transform (https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+
+-Parallel algorithms
+
+-MapReduce
+ -Map Function
+ -Reduce Function
+
+-Bloom Filter
+-HyperLogLog
+
+-SHA algorithms
+ -Comparing Archives
+ -Verifying passwords
+-Local sensitive and insensitive hash
+ -Simhash
+ -SHA
+
+-Diffie–Hellman (DH) key exchange
+
+-Linear Programming
+
